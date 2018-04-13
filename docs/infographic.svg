@@ -16,7 +16,7 @@
    sodipodi:docname="infographic.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    style="fill:#000000"
-   inkscape:export-filename="/home/saar/proj/boards/conehead/docs/conehead_assembly_page_2.png"
+   inkscape:export-filename="/home/saar/proj/boards/conehead/infographic-p2.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,7 +44,7 @@
      inkscape:window-height="2091"
      inkscape:window-x="59"
      inkscape:window-y="41"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g15583"
      showguides="true"
      inkscape:guide-bbox="true"
      pagecolor="#ffffff"

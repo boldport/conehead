@@ -1,0 +1,850 @@
+{
+  "components": {
+    "B1": {
+      "footprint": "batt_holder", 
+      "layer": "bottom", 
+      "location": [
+        -11.369454, 
+        -9.281003
+      ], 
+      "rotate": 12.546758, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "C1": {
+      "footprint": "cap_short", 
+      "layer": "bottom", 
+      "location": [
+        1.611269, 
+        -4.906991
+      ], 
+      "rotate": 74.994675, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -2.6, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "C2": {
+      "footprint": "cap_short", 
+      "layer": "bottom", 
+      "location": [
+        -27.411685, 
+        -13.060794
+      ], 
+      "rotate": 104.789055, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            6.6, 
+            0
+          ], 
+          "rotate": 270, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "C_carrier": {
+      "footprint": "cap", 
+      "layer": "bottom", 
+      "location": [
+        22.971885, 
+        -16.355296
+      ], 
+      "rotate": 219.15, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            7, 
+            -2.2
+          ], 
+          "rotate": 180, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "C_gate": {
+      "footprint": "cap", 
+      "layer": "bottom", 
+      "location": [
+        32.580449, 
+        -5.622028
+      ], 
+      "rotate": 231.284019, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            6, 
+            -2.4
+          ], 
+          "rotate": 180, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "C_mod": {
+      "footprint": "cap", 
+      "layer": "bottom", 
+      "location": [
+        27.167211, 
+        -10.92068
+      ], 
+      "rotate": 222.61347, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            5.4, 
+            -2.6
+          ], 
+          "rotate": 180, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "D1": {
+      "footprint": "diode", 
+      "layer": "bottom", 
+      "location": [
+        19.628293, 
+        -7.033593
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "H1": {
+      "footprint": "leg_con", 
+      "layer": "bottom", 
+      "location": [
+        5.242865, 
+        -15.839911
+      ], 
+      "rotate": 46.483015, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "H2": {
+      "footprint": "leg_con", 
+      "layer": "bottom", 
+      "location": [
+        -40.449475, 
+        10.301019
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "H3": {
+      "footprint": "leg_con", 
+      "layer": "bottom", 
+      "location": [
+        41.681384, 
+        18.538594
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "IC1": {
+      "footprint": "SOIC14", 
+      "layer": "bottom", 
+      "location": [
+        12.944143, 
+        -6.163176
+      ], 
+      "rotate": 270, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "Speaker": {
+      "footprint": "13mmspeaker", 
+      "layer": "bottom", 
+      "location": [
+        -34.21, 
+        -5.564501
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -2
+          ], 
+          "rotate": 0, 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "Speaker_pad": {
+      "footprint": "speaker_pads", 
+      "layer": "bottom", 
+      "location": [
+        -45.804954, 
+        -4.386623
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            9, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "R1": {
+      "footprint": "res", 
+      "layer": "bottom", 
+      "location": [
+        15.821881, 
+        -18.160957
+      ], 
+      "rotate": 81.477891, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "R2": {
+      "footprint": "res", 
+      "layer": "bottom", 
+      "location": [
+        10.145352, 
+        -18.383123
+      ], 
+      "rotate": 96.703324, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "R3": {
+      "footprint": "res_leg", 
+      "layer": "bottom", 
+      "location": [
+        35.560884, 
+        5.310424
+      ], 
+      "rotate": 270, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "R4": {
+      "footprint": "res_leg", 
+      "layer": "top", 
+      "location": [
+        -33.575062, 
+        22.927881
+      ], 
+      "rotate": 99.013116, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "R5": {
+      "footprint": "res_short", 
+      "layer": "bottom", 
+      "location": [
+        -23.674901, 
+        0.083769
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -1.7, 
+            0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "SW1": {
+      "footprint": "DIP_Switch_1way", 
+      "layer": "bottom", 
+      "location": [
+        6.237068, 
+        -6.381594
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "T1": {
+      "footprint": "PT333-3C", 
+      "layer": "bottom", 
+      "location": [
+        41.985852, 
+        -4.844856
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "ant": {
+      "footprint": "antt", 
+      "layer": "bottom", 
+      "location": [
+        43.339774, 
+        -1.516819
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }
+  }, 
+  "config": {
+    "name": "conehead", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "A", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.4, 
+      "outline": 0.25, 
+      "pad": 0.3, 
+      "route": 0.3
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.2, 
+      "path-scale": 1.1, 
+      "rect-buffer": 0.2
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        62.060812, 
+        1.0942344
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: The Conehead\nRevision: A\nDescription: Cricket shaped PCB \nLicense: MIT\nCompany: Boldport Limited\nDesigner: Ben Barwise, ben@boldport.com"
+    }, 
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        65.22488, 
+        -12.137764
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: white\nSoldermask: top (green), bottom (green)\nSurface finish: Lead free HASL"
+    }, 
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.2mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.2mm", 
+      "location": [
+        61.414889, 
+        -22.911207
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      49.14409, 
+      10.257435
+    ]
+  }, 
+  "files": {
+    "routing-data": "ananas_routing.json", 
+    "routing-svg": "ananas.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "layer-control": {
+    "assembly": {
+      "hide": true, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }
+  }, 
+  "outline": {
+    "measurements": {
+      "font": "UbuntuMono-R-webfont", 
+      "scale": 0.0008
+    }, 
+    "shape": {
+      "type": "path", 
+      "value": "m 36.961879,-25.468098 c -0.490469,0.0057 -0.788583,0.03307 -0.788583,0.03307 -24.597039,0.82844 -44.6188059,0.852383 -73.293715,0.242363 -1.544897,0.01085 -2.867315,0.163791 -2.909384,1.426269 -0.04206,1.262502 1.19941,1.669149 1.19941,1.669149 31.1087223,4.515998 51.165906,10.206283 77.184435,9.830925 1.08584,-0.357922 8.629216,0.04773 7.221265,-8.026901 -0.750049,-4.814877 -6.488049,-5.199721 -8.613428,-5.174877 z m -70.704727,8.898681 c -0.801954,1.03e-4 -1.609513,0.0058 -2.422591,0.01757 -1.085836,0.357931 -8.628701,-0.04773 -7.220748,8.0269003 0.92314,5.9260027 9.40201,5.1418047 9.40201,5.1418047 24.5970442,-0.8284398 44.618281,-0.8523803 73.293201,-0.2423623 1.544889,-0.010851 2.867282,-0.1637895 2.909382,-1.4262695 0.0421,-1.2625019 -1.198893,-1.6691488 -1.198893,-1.6691488 -30.136589,-4.3748744 -49.901752,-9.8516984 -74.762361,-9.8484944 z m 29.8235017,14.6916096 -32.5752717,0.5612059 c 0,0 -8.602145,0.79146028 -10.890291,4.3847466 -2.288145,3.593293 17.59239,12.7119749 23.713281,14.4037709 6.120895,1.691778 25.2173086,2.880421 28.974458,3.589443 2.8297699,0.534019 1.8181541,2.238677 4.2333333,2.241199 2.1462387,0.0026 2.6696957,-1.57747 3.9139727,-1.542542 1.244277,0.03493 1.439701,1.61355 2.962611,1.364257 1.52291,-0.249277 1.339572,-3.336131 3.979601,-3.106258 2.64002,0.229875 4.399899,5.123902 8.100798,5.419823 3.70092,0.295888 6.837267,-1.393249 12.743407,-9.938928 5.90613,-8.5456576 7.756898,-11.9532607 5.224489,-14.1753638 -0.42425,-0.37227231 -1.065129,-0.56425945 -1.324398,-1.01645779 -0.242623,-0.42316407 -0.09293,-1.10762426 -0.762702,-1.43569661 -0.784058,-0.3840539 -1.044003,-0.1687563 -1.78771,-0.1425049 -0.82494,0.029119 -2.115787,-0.1070149 -2.59353,-0.1018155 -1.344459,0.01466 -43.9120483,-0.5048788 -43.9120483,-0.5048788 z"
+    }
+  }, 
+  "physical": {
+    "stackup": [
+      "top", 
+      "bottom"
+    ]
+  }, 
+  "shapes": {
+    "Boldport_l": {
+      "footprint": "boldport-logo", 
+      "layer": "bottom", 
+      "location": [
+        24.194378, 
+        -1.822874
+      ], 
+      "rotate": 31.540223, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "battery_pattern": {
+      "footprint": "battery_pattern", 
+      "layer": "bottom", 
+      "location": [
+        -34.004782, 
+        -6.484779
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "conehead_title": {
+      "footprint": "theconehead", 
+      "layer": "bottom", 
+      "location": [
+        -3.283146, 
+        8.923107
+      ], 
+      "rotate": 183.367356, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "conehead_url": {
+      "footprint": "website_url", 
+      "layer": "top", 
+      "location": [
+        -28.519786, 
+        9.761761
+      ], 
+      "rotate": 178, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "cricket_pattern": {
+      "footprint": "cricket_pattern", 
+      "layer": "top", 
+      "location": [
+        0.109429, 
+        -11.485187
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "cricket_pattern_back": {
+      "footprint": "cricket_pattern_back", 
+      "layer": "top", 
+      "location": [
+        -0.68447, 
+        -11.485187
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "cricket_pattern_leg1": {
+      "footprint": "cricket_pattern_leg", 
+      "layer": "top", 
+      "location": [
+        3.008705, 
+        18.983375
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "cricket_pattern_leg2": {
+      "footprint": "cricket_pattern_leg", 
+      "layer": "top", 
+      "location": [
+        -0.680981, 
+        9.950689
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "speaker_symbol": {
+      "footprint": "speaker_symbol", 
+      "layer": "bottom", 
+      "location": [
+        -40.255735, 
+        -3.979599
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }
+  }
+}

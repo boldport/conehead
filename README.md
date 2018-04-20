@@ -2,8 +2,7 @@
 
 ![Image of The Conehead the cricket shaped PCB](/images/conehead.jpg)
 
-*The Conehead* is the next series of our critter based PCBs. It is an audio circuit that synthesises the sound of a cricket. It uses three oscillators interacting with each other to create the sound. Using a little 13mm speaker and a phototransistor the cricket will change it's chirping frequency depending on the amount of light available. This project is produced and built using [PCBmodE](http://pcbmode.com).
-
+*The Conehead* is the next series of our critter based PCBs (past ones are *The Lady*, *The Gent*, and *The Monarch*). It's an audio circuit that synthesises the sound of a cricket. It uses three oscillators interacting with each other to create the distinctive sound. Using a small speaker and a phototransistor, the cricket will change its chirping frequency depending on the amount of light it 'sees'.
 ## Documentation
 
 * For more detailed information visit [boldport.com/conehead](http://boldport.com/conehead)
